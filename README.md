@@ -229,5 +229,3 @@ print(le.inverse_transform(x_single_prediction))
 ## RESULT
 A neural network classification model is developed for the given dataset.
 
-## RESULT
-Include your result here
